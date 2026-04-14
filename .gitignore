@@ -26,11 +26,7 @@ pip-log.txt
 #Mr Developer
 .mr.developer.cfg
 chapters/thinkpython.py
-chapters/.ipynb_checkpoints/chap01-checkpoint.ipynb
-chapters/chap01x.ipynb
-chapters/.ipynb_checkpoints/chap01x-checkpoint.ipynb
+chapters/.ipynb_checkpoints/*
+chapters/*x.ipynb
+
 chapters/diagram.py
-chapters/chap02x.ipynb
-chapters/.ipynb_checkpoints/chap02x-checkpoint.ipynb
-chapters/.ipynb_checkpoints/chap03x-checkpoint.ipynb
-chapters/chap03x.ipynb
