@@ -30,3 +30,4 @@ chapters/.ipynb_checkpoints/*
 chapters/*x.ipynb
 
 chapters/diagram.py
+chapters/jupyturtle.py
